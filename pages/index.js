@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Treinando para colocar esse página no ar </h1>;
+  return <h1>QUANDO VAI ME DAR UMA MAMADA </h1>;
 }
 
 export default Home;
